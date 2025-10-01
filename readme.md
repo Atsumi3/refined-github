@@ -225,7 +225,7 @@ https://github.com/refined-github/refined-github/wiki/Contributing#metadata-guid
 - [](# "pr-filters") [Adds Checks and Draft PR dropdown filters in PR lists.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/253068868-6afb4656-4ef5-4846-89c5-24dc6ee7f839.png)
 - [](# "pr-approvals-count") [Shows color-coded review counts in PR lists.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/253125143-d10d95df-4a89-4692-b218-5eba5cd79906.png)
 - [](# "highlight-non-default-base-branch") [Shows the base branch in PR lists if it’s not the default branch.](https://user-images.githubusercontent.com/1402241/88480306-39f4d700-cf4d-11ea-9e40-2b36d92d41aa.png)
-- [](# "show-head-branch-names-in-pr-list") [Shows the source branch name for each PR in PR lists.](https://user-images.githubusercontent.com/1402241/placeholder-image.png)
+- [](# "show-head-branch-names-in-pr-list") [Shows the source branch name for each PR in PR lists.](https://github.com/user-attachments/assets/0efc73e1-090e-4b28-8ad0-baf410871253)
 - [](# "hide-inactive-deployments") [Hides inactive deployments in PRs.](https://github.com/refined-github/refined-github/issues/1144)
 - [](# "previous-next-commit-buttons") [Adds duplicate commit navigation buttons at the bottom of the `Commits` tab page.](https://user-images.githubusercontent.com/24777/41755271-741773de-75a4-11e8-9181-fcc1c73df633.png)
 - [](# "hidden-review-comments-indicator") [Adds comment indicators when comments are hidden in PR review.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/253128043-a10eaf9e-ff81-48db-b67c-ee823804c859.gif)
