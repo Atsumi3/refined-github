@@ -84,6 +84,7 @@ import './features/show-user-top-repositories.js';
 import './features/hide-user-forks.js';
 import './features/user-profile-follower-badge.js';
 import './features/highlight-non-default-base-branch.js';
+import './features/show-head-branch-names-in-pr-list.js';
 import './features/mark-private-orgs.js';
 import './features/linkify-commit-sha.js';
 import './features/warning-for-disallow-edits.js';
